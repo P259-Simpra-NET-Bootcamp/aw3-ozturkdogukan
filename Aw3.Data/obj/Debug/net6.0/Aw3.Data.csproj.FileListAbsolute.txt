@@ -1,0 +1,17 @@
+C:\Users\ASUS\Desktop\aw2-ozturkdogukan\aw3\Aw3\Aw3.Data\bin\Debug\net6.0\Aw3.Data.deps.json
+C:\Users\ASUS\Desktop\aw2-ozturkdogukan\aw3\Aw3\Aw3.Data\bin\Debug\net6.0\Aw3.Data.runtimeconfig.json
+C:\Users\ASUS\Desktop\aw2-ozturkdogukan\aw3\Aw3\Aw3.Data\bin\Debug\net6.0\Aw3.Data.dll
+C:\Users\ASUS\Desktop\aw2-ozturkdogukan\aw3\Aw3\Aw3.Data\bin\Debug\net6.0\Aw3.Data.pdb
+C:\Users\ASUS\Desktop\aw2-ozturkdogukan\aw3\Aw3\Aw3.Data\obj\Debug\net6.0\Aw3.Data.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\aw2-ozturkdogukan\aw3\Aw3\Aw3.Data\obj\Debug\net6.0\Aw3.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\aw2-ozturkdogukan\aw3\Aw3\Aw3.Data\obj\Debug\net6.0\Aw3.Data.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\aw2-ozturkdogukan\aw3\Aw3\Aw3.Data\obj\Debug\net6.0\Aw3.Data.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\aw2-ozturkdogukan\aw3\Aw3\Aw3.Data\obj\Debug\net6.0\Aw3.Data.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\aw2-ozturkdogukan\aw3\Aw3\Aw3.Data\obj\Debug\net6.0\Aw3.Data.dll
+C:\Users\ASUS\Desktop\aw2-ozturkdogukan\aw3\Aw3\Aw3.Data\obj\Debug\net6.0\refint\Aw3.Data.dll
+C:\Users\ASUS\Desktop\aw2-ozturkdogukan\aw3\Aw3\Aw3.Data\obj\Debug\net6.0\Aw3.Data.pdb
+C:\Users\ASUS\Desktop\aw2-ozturkdogukan\aw3\Aw3\Aw3.Data\obj\Debug\net6.0\Aw3.Data.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\aw2-ozturkdogukan\aw3\Aw3\Aw3.Data\obj\Debug\net6.0\ref\Aw3.Data.dll
+C:\Users\ASUS\Desktop\aw2-ozturkdogukan\aw3\Aw3\Aw3.Data\bin\Debug\net6.0\Aw3.Base.dll
+C:\Users\ASUS\Desktop\aw2-ozturkdogukan\aw3\Aw3\Aw3.Data\bin\Debug\net6.0\Aw3.Base.pdb
+C:\Users\ASUS\Desktop\aw2-ozturkdogukan\aw3\Aw3\Aw3.Data\obj\Debug\net6.0\Aw3.Data.csproj.CopyComplete
